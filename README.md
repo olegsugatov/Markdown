@@ -240,3 +240,6 @@ Emoji
 GitHub supports emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
+
+
+[Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
