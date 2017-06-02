@@ -78,6 +78,16 @@ Lists
 - Or minuses
 + Or pluses
 
+Item 1
+* Item 2
+* Item 2a
+* Item 3a
+
+1. Item 1
+2. Item 2
+3. Item 3
+*           Item 3a
+* Item 3b
 
 
 Images
@@ -153,6 +163,12 @@ Inline HTML
 </dl>
 
 
+Ignore Markdown Syntax
+----------------------
+
+\*literal astrics\*
+
+
 Horizontal Rule
 ---------------
 Three or more...
@@ -189,3 +205,38 @@ YouTube Embed
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gGNid6IFg0U/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+Issue Reference
+---------------
+
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+
+
+Username
+--------
+
+@mention
+
+You can also @mention teams within an organization.
+
+
+Task List
+---------
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+
+
+
+Emoji
+-----
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
